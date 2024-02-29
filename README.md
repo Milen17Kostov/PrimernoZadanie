@@ -1,0 +1,2 @@
+# PrimernoZadanie
+Zadanie pri Stiliqnov
